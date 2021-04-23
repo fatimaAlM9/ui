@@ -3,9 +3,9 @@
 	<!-- untitled styles -->
 
 	<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-		<item name="colorPrimary">@color/colorPrimary</item>
-		<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-		<item name="colorAccent">@color/colorAccent</item>
+		<item name="colorPrimary">@color/ellipse_6_color</item>
+		<item name="colorPrimaryDark">@color/ellipse_8_color</item>
+		<item name="colorAccent">@color/rectangle1_color</item>
 	</style>
 
 </resources>

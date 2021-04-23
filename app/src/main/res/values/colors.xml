@@ -2,9 +2,9 @@
 <resources>
 	<!-- untitled colors -->
 
-	<color name="colorPrimary">#008577</color>
-	<color name="colorPrimaryDark">#00574B</color>
-	<color name="colorAccent">#D81B60</color>
+	<color name="colorPrimary">#4D53C8</color>
+	<color name="colorPrimaryDark">#1A237E</color>
+	<color name="colorAccent">#8CA3DD</color>
 
 	<color name="_bg__activitymain_color">#FFFFFF</color>
 	<color name="rectangle1_color">#8CA3DD</color>
